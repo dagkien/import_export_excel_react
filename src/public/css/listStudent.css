@@ -1,0 +1,22 @@
+.ant-row-rtl #components-layout-demo-top-side-2 .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  }
+  table {
+    border: 1px solid black; 
+    padding: 10px;
+    margin: 20px;
+  }
+  tr,td {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 0.6rem;
+  }
+  tr:nth-child(2) {
+    background-color: yellow;
+    color: #000;
+  }
